@@ -1,0 +1,16 @@
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\AmelRepo2021\ElevenNote\ElevenNote.Data\bin\Debug\ElevenNote.Data.dll.config
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\AmelRepo2021\ElevenNote\ElevenNote.Data\bin\Debug\ElevenNote.Data.dll
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\AmelRepo2021\ElevenNote\ElevenNote.Data\bin\Debug\ElevenNote.Data.pdb
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\AmelRepo2021\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.dll
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\AmelRepo2021\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\AmelRepo2021\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\AmelRepo2021\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\AmelRepo2021\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.xml
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\AmelRepo2021\ElevenNote\ElevenNote.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\AmelRepo2021\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\AmelRepo2021\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\AmelRepo2021\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csprojAssemblyReference.cache
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\AmelRepo2021\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CoreCompileInputs.cache
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\AmelRepo2021\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\AmelRepo2021\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\AmelRepo2021\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
