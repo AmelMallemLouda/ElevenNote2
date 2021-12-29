@@ -13,7 +13,10 @@ namespace ElvenNote.Models
         public int NoteId { get; set; }
       
         public string Title { get; set; }
-        
+
+        [UIHint("Starred")] //will link up to a view we make later
+        public bool IsStarred { get; set; }
+
 
         [Display (Name="Created")]
         public DateTimeOffset CreatedUtc { get; set; }

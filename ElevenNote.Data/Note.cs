@@ -1,6 +1,7 @@
 ﻿using ElevenNote.Data;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
@@ -17,6 +18,8 @@ namespace ElvenNote.Data
         public string Title { get; set; }
         public string Content { get; set; }
         public DateTimeOffset CreatedUtc { get; set; }
+        [DefaultValue(false)]
+        public bool IsStarred { get; set; }
         public DateTimeOffset? ModifiedUtc { get; set; }
         [ForeignKey(nameof(Category))]
         [Required]

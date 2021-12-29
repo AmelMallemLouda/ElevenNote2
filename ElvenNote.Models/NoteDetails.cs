@@ -19,7 +19,11 @@ namespace ElvenNote.Models
         public DateTimeOffset CreatedUtc { get; set; }
         [Display(Name="Modified")]
         public DateTimeOffset? ModifiedUtc { get; set; }
+
+        [Display(Name = " Category Name")]
         public string CategoryName { get; set; }
+
+        [Display(Name = "Category Id")]
         public int CategoryId { get; set; }
     }
 }

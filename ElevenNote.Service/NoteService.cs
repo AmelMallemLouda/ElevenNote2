@@ -17,7 +17,7 @@ namespace ElevenNote.Service
         //constructor
         public NoteService(Guid userId)
         {
-            userId = _userId;
+            _userId = userId;
         }
 
         public bool CrerateNote(NoteCreate model)
@@ -51,6 +51,7 @@ namespace ElevenNote.Service
                     {
                         NoteId = e.NoteId,
                         Title = e.Title,
+                        IsStarred=e.IsStarred,
                         CreatedUtc = e.CreatedUtc,
                         CategoryName = e.Category.CategoryName
                     });
@@ -93,6 +94,7 @@ namespace ElevenNote.Service
                 entity.Content = note.Content;
                 entity.ModifiedUtc = DateTimeOffset.Now;
                 entity.CategoryId = note.CategoryID;
+                entity.IsStarred = note.IsStarred;
                 //save the changes
                 return ctx.SaveChanges() == 1;
             }

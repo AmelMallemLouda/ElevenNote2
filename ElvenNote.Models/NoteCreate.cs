@@ -13,6 +13,8 @@ namespace ElvenNote.Models
         public string Title { get; set; }
         [Required]
         public string Content { get; set; }
+
+        [Display(Name ="Category Id")]
         public int CategoryID { get; set; }
     }
 }

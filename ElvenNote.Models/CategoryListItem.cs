@@ -9,7 +9,10 @@ namespace ElvenNote.Models
 {
     public class CategoryListItem
     {
+        [Display(Name = " Category Id")]
         public int CategoryId { get; set; }
+
+        [Display(Name = " Category Name")]
         public string CategoryName { get; set; }
 
         [Display(Name = "Number of Notes")]

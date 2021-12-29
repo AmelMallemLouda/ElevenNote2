@@ -26,10 +26,11 @@
                     <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
                     @* to only show the  option if logged in*@
                     @if (User.Identity.IsAuthenticated)
-            {
+                    {
+                       <li>@Html.ActionLink("Category", "Index", "Category")</li>
 
-                    <li>@Html.ActionLink("Note", "Index", "Note")</li>
-            }
+                        <li>@Html.ActionLink("Note", "Index", "Note")</li>
+                    }
                 </ul>
                 @Html.Partial("_LoginPartial")
             </div>
